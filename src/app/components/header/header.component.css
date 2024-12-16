@@ -1,0 +1,13 @@
+.header {
+    background-color: #007bff; /* Cor de fundo azul */
+    color: white; /* Cor do texto branca */
+    padding: 40px; /* Espaçamento interno */
+    text-align: center; /* Centralizar texto */
+    position: relative; /* Para usar elementos posicionados */
+  }
+
+  h1 {
+    font-size: 24px;
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
